@@ -1,5 +1,20 @@
-# Core Java
+## Java Feature
+-  [x] Simple
+-  [x] Object Oriented
+-  [x] Platform Independent
+-  [x] Arch Neutral
+-  [x] Portable
+-  [x] Robust
+-  [x] Secure
+-  [x] Dynamic
+-  [x] Distributed
+-  [x] Multi Threaded
+-  [x] Interpretive 
+-  [x] High Performance
+
+ 
 ### `Java Versions`
+
 
 | XML based tech       | Annotation based tech(XML Optional) |
 | ----------- | ----------- |
@@ -11,8 +26,6 @@
 | EJBs-2.x   | EJBs-3.x     |
 | Spring-2.x | Spring-3.x   |
 
-
-### Core Concepts
 
 Why it is not possible to define multiple package statement in a single java file?
 Ans- Because package declaration statement must be the first statement
@@ -77,4 +90,8 @@ System.println("Hello JAVA");
    }
  }
 ```
-> Status -  Compilation Error 
+>> Status -  Compilation Error 
+
+
+
+### Operator
